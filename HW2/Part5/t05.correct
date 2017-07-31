@@ -1,0 +1,3 @@
+running e2c
+mustbe: want TK.DECLARE, got Token(TK.FOR $ 2)
+can't parse: line 2 missing token (mustbe)
